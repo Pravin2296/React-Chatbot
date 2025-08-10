@@ -9,7 +9,7 @@
   - Message history stored in React state
   - Easy to integrate into any React project
 
- -- Tech Stack
+ -- Tools
   - React.js – Frontend framework
   - Google Generative AI SDK – AI responses
   - JavaScript (ES6+)
