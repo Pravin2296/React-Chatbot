@@ -2,7 +2,7 @@ import { useState } from "react";
 import { GoogleGenerativeAI } from "@google/generative-ai";
 
 // Replace with your actual Gemini API key from https://aistudio.google.com/app/apikey
-const API_KEY = 'AIzaSyBz9_vCZcYpmFatqhOAnjUaX91CmyohX5M';
+const API_KEY = 'YOUR_API_KEY';
 
 const genAI = new GoogleGenerativeAI(API_KEY);
 
